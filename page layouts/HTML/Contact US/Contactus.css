@@ -1,14 +1,19 @@
-nav {
-	
-	
-}
 
 .leftbox {
 	position: absolute;
-	top: 50px;
-	left: 20px;
+	top: 100px;
+	left: 50px;
 	height: 300px;
 	width: 300px;
-	border: 2px, solid, blue;
+	border: 2px, solid, blue;	
+}
+
+
+
+
+
+
+footer {
+	
 	
 }
