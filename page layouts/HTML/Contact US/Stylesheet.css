@@ -38,3 +38,15 @@ ul.topnav li a:hover {
 	background-color: #555;
 }
 /* End of NavBar */
+.leftbox {
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	height: 300px;
+	width: 300px;
+	border: 2px, solid, blue;	
+}
+footer {
+	
+	
+}
